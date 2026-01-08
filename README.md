@@ -1,6 +1,6 @@
 # Automação de Testes com Cypress na plataforma The Internet (Herokuapp) 🌐
 
-Este projeto realiza automação de testes com o framework Cypress na plataforma The Internet.
+Este projeto realiza automação de testes com o framework Cypress na plataforma [The Internet](https://the-internet.herokuapp.com/).
 
 <br>
 
