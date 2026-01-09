@@ -1,7 +1,7 @@
 describe('Página de checkboxes', () => {
   
   beforeEach(() => {
-    cy.visit('https://the-internet.herokuapp.com/checkboxes') // acessa a página dos checkboxes
+    cy.visit('/checkboxes') // acessa a página dos checkboxes
   });
 
   // CT01
