@@ -2,7 +2,7 @@
 import dadosLoginUsuario from '../fixtures/dadosLoginUsuario.json' // dados para serem usados nos logins
 
 
-describe('template spec', () => {
+describe('Fluxo de Login', () => {
  
   // Objetos de seletores
   const listaSeletores = {
