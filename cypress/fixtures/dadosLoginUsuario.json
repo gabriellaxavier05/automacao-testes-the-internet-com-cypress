@@ -1,0 +1,11 @@
+{
+    "usuarioSucesso": {
+        "username": "tomsmith",
+        "password": "SuperSecretPassword!"
+    },
+
+    "usuarioFalha": {
+        "username": "tomasm",
+        "password": "password!"
+    }
+}
