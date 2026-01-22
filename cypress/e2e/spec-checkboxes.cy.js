@@ -15,7 +15,7 @@ describe('Página de checkboxes', () => {
   });
 
   // CT02
-  it.only('Desmarcar o 2o checkbox da página', () => {
+  it('Desmarcar o 2o checkbox da página', () => {
     cy.get(listaSeletores.campoCheckbox).last().uncheck().should('not.be.checked') // desmarca o 2o input checkbox da página e verifica se não está selecionado
   });
 
